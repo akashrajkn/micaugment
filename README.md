@@ -7,13 +7,25 @@ Note: This is a work in progress. Details will follow in the upcoming commits
 - [x] Microphone Model (PyTorch)
 - [ ] Data preprocessing pipeline
 - [ ] Training pipeline
+- [ ] Jupyter notebook with examples
 - [ ] Device identification
 - [ ] SEANet & evaluation of robustness
 - [ ] Pretrained checkpoints
 
 ### Requirements
 
+```
+conda env create -f environment.yml
+conda activate mic_env
+```
+
 ### Training pipeline
+
+```
+cd src
+python prepare_data.py
+python trainer.py <arguments>
+```
 
 ### Citation
 
