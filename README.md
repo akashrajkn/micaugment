@@ -9,6 +9,7 @@ Note: This is a work in progress. Details will follow in the upcoming commits
 - [ ] Training pipeline
 - [ ] Device identification
 - [ ] SEANet & evaluation of robustness
+- [ ] Pretrained checkpoints
 
 ### Requirements
 
