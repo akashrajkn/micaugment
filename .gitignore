@@ -1,3 +1,9 @@
+# Data
+data/
+
+# Runs / logdirs of tensorboard
+runs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
